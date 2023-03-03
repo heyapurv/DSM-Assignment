@@ -1,0 +1,58 @@
+                                                    Assignment 1 : 29 Jan
+            
+         Q1. Who developed Python programming Language?
+         Ans: It was created by,Guido van Rossum.
+         
+         Q2. Which type of programming does python support? 
+         Ans: Python supports Object oriented Programming and structured programming.
+         
+         Q3. Is Python case sensitive when dealing with identifiers?
+         Ans: Yes, it is a case senstitive language.
+         
+         Q4. What is the correct extenstion of Python file?
+         Ans: The correct extension of python file is .py .
+         
+         Q5. Is python code compiled or interpreted?
+         Ans: When we run the code, it is compiled first and then interpreted.
+         
+         Q6. Name a few blocks of code used to define in python language?
+         Ans: Module, class defination, function body etc.
+         
+         Q7. State a character used to give single-line comments in Python?
+         Ans: # is used to give single-line comments in python.
+         
+         Q8. Mention functions which can help us to find the version of python that we are currently working on?
+         Ans: we can find the version of python by using- sys.version, python_version() functions.
+         
+         Q9. Python supports the creation of anonymous functions at runtime, using a construct called -------- 
+         Ans: Lambda.
+         
+         Q10. What does pip stand for python? 
+         Ans: PiP- pip install packages is used for installing python packages.
+         
+         Q11. Mention a few built-in functions in python? 
+         Ans: float(), int(), str(), type(), complex() etc.
+         
+         Q12. What is the maximum possible length of an identifier in python? 
+         Ans: Identifier can have maximum possible length of 79 characters.
+         
+         Q13. What are the benefits of using Python? 
+         Ans: 1- It requires less coding
+              2- User-friendly data structures 
+              3- We can develope softwares and websites
+              4- For data analysation and data visualization 
+          
+         Q14. How is memory managed in Python?
+         Ans: Python uses automatic memory management, which means the Python memory manager automatically handles memory allocation and deallocation. The memory manager uses a reference counting system to track the number of references to objects in memory, and frees the memory occupied by an object when its reference count reaches zero. Additionally, Python has a garbage collector that periodically frees up memory occupied by objects that are no longer being used. This ensures that Python programs are able to efficiently use memory without the need for manual memory management.
+         
+         Q15.
+         Ans: 1- Download the latest version of Python from the official website (https://www.python.org/downloads/).
+   2- Run the installer and follow the instructions to install Python on your system.
+   3- Open the "Environment Variables" dialog by typing "Environment Variables" into the Windows search bar and clicking on "Edit the system environment variables."
+   4-Under "System Variables," scroll down and find the "Path" variable, then click "Edit."
+   5- Click "New" and add the path to your Python installation. For example, if you installed Python in the default location, the path would be "C:\PythonXY
+   6- Click "OK" to close all the dialog boxes.
+   7-pen a new command prompt and type "python" to confirm that the installation was successful and that the path variables are set correctly.
+
+         Q16. Is indentation required in python? 
+         Ans: Yes, indentation is required in Python. Indentation is used to indicate the block of code associated with control structures such as loops and conditional statements.
